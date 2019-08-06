@@ -1,0 +1,39 @@
+Welcome to the Cinema Ticket Booking Application!
+Please enter your name: 
+Shakeel
+Please enter your age: 
+18
+Are you a student? (Y/N)
+Y
+Which film would you like to watch? 
+1. Batman Begins | rating: (P)
+2. Inside Out | rating: (G)
+3. The Witch | rating: (M)
+4. Shrek 2 | rating: (G)
+3
+Your ticket is ready to be collected!
+------------------------------------------------------------
+FILM TICKET for: The Witch rating: (M)
+CUSTOMER DETAILS: Shakeel Age: 18 Student? true
+TOTAL COST: $8.5
+------------------------------------------------------------
+
+Issue another ticket? (Y/N)
+Y
+Please enter your name: 
+Johnny
+Please enter your age: 
+12
+Are you a student? (Y/N)
+Y
+Which film would you like to watch? 
+1. Batman Begins | rating: (P)
+2. Inside Out | rating: (G)
+3. The Witch | rating: (M)
+4. Shrek 2 | rating: (G)
+3
+Sorry, cannot issue ticket for age restricted film
+
+Issue another ticket? (Y/N)
+N
+Thank you for using this Application!

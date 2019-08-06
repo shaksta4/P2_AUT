@@ -1,0 +1,96 @@
+Which airline would you like to travel with?
+1. FastAir Airlines
+2. JetSun Airlines
+1
+Welcome to the FastAir Airlines reservation system
+Which flight would you like to reserve a seat on?
+1.flight: WGTNAKL747 from Wellington Airport to Auckland Airport. Departure time is: 10:30h
+2.flight: CHCHWGTN380 from Christchurch Airport to Wellington Airport. Departure time is: 13:30h
+3.flight: QTNDND747 from Queenstown Airport to Dunedin Airport. Departure time is: 21:30h
+1
+Booking seats for flight: WGTNAKL747 from Wellington Airport to Auckland Airport. Departure time is: 10:30h
+      A      B      C      D      E      F      G
+ 1 W[ _ ] A[ _ ] A[ _ ] M[ _ ] A[ _ ] A[ _ ] W[ _ ] 
+ 2 W[ _ ] A[ _ ] A[ _ ] M[ _ ] A[ _ ] A[ _ ] W[ _ ] 
+ 3 W[ _ ] A[ _ ] A[ _ ] M[ _ ] A[ _ ] A[ _ ] W[ _ ] 
+ 4 W[ _ ] A[ _ ] A[ _ ] M[ _ ] A[ _ ] A[ _ ] W[ _ ] 
+ 5 w[ _ ] a[ _ ] a[ _ ] m[ _ ] a[ _ ] a[ _ ] w[ _ ] 
+ 6 w[ _ ] a[ _ ] a[ _ ] m[ _ ] a[ _ ] a[ _ ] w[ _ ] 
+ 7 w[ _ ] a[ _ ] a[ _ ] m[ _ ] a[ _ ] a[ _ ] w[ _ ] 
+ 8 w[ _ ] a[ _ ] a[ _ ] m[ _ ] a[ _ ] a[ _ ] w[ _ ] 
+ 9 w[ _ ] a[ _ ] a[ _ ] m[ _ ] a[ _ ] a[ _ ] w[ _ ] 
+10 w[ _ ] a[ _ ] a[ _ ] m[ _ ] a[ _ ] a[ _ ] w[ _ ] 
+
+1. Reserve first class
+2. Reserve economy class
+3. View seating map
+4. Exit
+1
+Which seat type?
+1. WINDOW Seat
+2. AISLE Seat
+3. MIDDLE Seat
+3
+      A      B      C      D      E      F      G
+ 1 W[ _ ] A[ _ ] A[ _ ] M[ X ] A[ _ ] A[ _ ] W[ _ ] 
+ 2 W[ _ ] A[ _ ] A[ _ ] M[ _ ] A[ _ ] A[ _ ] W[ _ ] 
+ 3 W[ _ ] A[ _ ] A[ _ ] M[ _ ] A[ _ ] A[ _ ] W[ _ ] 
+ 4 W[ _ ] A[ _ ] A[ _ ] M[ _ ] A[ _ ] A[ _ ] W[ _ ] 
+ 5 w[ _ ] a[ _ ] a[ _ ] m[ _ ] a[ _ ] a[ _ ] w[ _ ] 
+ 6 w[ _ ] a[ _ ] a[ _ ] m[ _ ] a[ _ ] a[ _ ] w[ _ ] 
+ 7 w[ _ ] a[ _ ] a[ _ ] m[ _ ] a[ _ ] a[ _ ] w[ _ ] 
+ 8 w[ _ ] a[ _ ] a[ _ ] m[ _ ] a[ _ ] a[ _ ] w[ _ ] 
+ 9 w[ _ ] a[ _ ] a[ _ ] m[ _ ] a[ _ ] a[ _ ] w[ _ ] 
+10 w[ _ ] a[ _ ] a[ _ ] m[ _ ] a[ _ ] a[ _ ] w[ _ ] 
+
+Seat reservation: First class MIDDLE seat at: 1D is reserved.
+1. Reserve first class
+2. Reserve economy class
+3. View seating map
+4. Exit
+2
+Which seat type?
+1. WINDOW Seat
+2. AISLE Seat
+3. MIDDLE Seat
+1
+Which seat type?
+1. WINDOW Seat
+2. AISLE Seat
+3. MIDDLE Seat
+      A      B      C      D      E      F      G
+ 1 W[ _ ] A[ _ ] A[ _ ] M[ X ] A[ _ ] A[ _ ] W[ _ ] 
+ 2 W[ _ ] A[ _ ] A[ _ ] M[ _ ] A[ _ ] A[ _ ] W[ _ ] 
+ 3 W[ _ ] A[ _ ] A[ _ ] M[ _ ] A[ _ ] A[ _ ] W[ _ ] 
+ 4 W[ _ ] A[ _ ] A[ _ ] M[ _ ] A[ _ ] A[ _ ] W[ _ ] 
+ 5 w[ X ] a[ _ ] a[ _ ] m[ _ ] a[ _ ] a[ _ ] w[ _ ] 
+ 6 w[ _ ] a[ _ ] a[ _ ] m[ _ ] a[ _ ] a[ _ ] w[ _ ] 
+ 7 w[ _ ] a[ _ ] a[ _ ] m[ _ ] a[ _ ] a[ _ ] w[ _ ] 
+ 8 w[ _ ] a[ _ ] a[ _ ] m[ _ ] a[ _ ] a[ _ ] w[ _ ] 
+ 9 w[ _ ] a[ _ ] a[ _ ] m[ _ ] a[ _ ] a[ _ ] w[ _ ] 
+10 w[ _ ] a[ _ ] a[ _ ] m[ _ ] a[ _ ] a[ _ ] w[ _ ] 
+
+Seat reservation: Economy class WINDOW seat at: 5A is reserved.
+1. Reserve first class
+2. Reserve economy class
+3. View seating map
+4. Exit
+3
+      A      B      C      D      E      F      G
+ 1 W[ _ ] A[ _ ] A[ _ ] M[ X ] A[ _ ] A[ _ ] W[ _ ] 
+ 2 W[ _ ] A[ _ ] A[ _ ] M[ _ ] A[ _ ] A[ _ ] W[ _ ] 
+ 3 W[ _ ] A[ _ ] A[ _ ] M[ _ ] A[ _ ] A[ _ ] W[ _ ] 
+ 4 W[ _ ] A[ _ ] A[ _ ] M[ _ ] A[ _ ] A[ _ ] W[ _ ] 
+ 5 w[ X ] a[ _ ] a[ _ ] m[ _ ] a[ _ ] a[ _ ] w[ _ ] 
+ 6 w[ _ ] a[ _ ] a[ _ ] m[ _ ] a[ _ ] a[ _ ] w[ _ ] 
+ 7 w[ _ ] a[ _ ] a[ _ ] m[ _ ] a[ _ ] a[ _ ] w[ _ ] 
+ 8 w[ _ ] a[ _ ] a[ _ ] m[ _ ] a[ _ ] a[ _ ] w[ _ ] 
+ 9 w[ _ ] a[ _ ] a[ _ ] m[ _ ] a[ _ ] a[ _ ] w[ _ ] 
+10 w[ _ ] a[ _ ] a[ _ ] m[ _ ] a[ _ ] a[ _ ] w[ _ ] 
+
+1. Reserve first class
+2. Reserve economy class
+3. View seating map
+4. Exit
+4
+Thank you for using this Application. Goodbye

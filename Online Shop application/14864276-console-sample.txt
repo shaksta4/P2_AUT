@@ -1,0 +1,69 @@
+Welcome to the Online Gaming shop!!
+Reading purchase transcript: purchase-history.txt..................
+----------------
+Online shop menu
+----------------
+1. Add product to cart
+2. View your shopping cart
+3. Finalise purchases
+4. Quit
+1
+Please select a product from the menu
+1. Uno, Deluxe edition, (123) Price: $4.99
+2. Snakes n Ladders, Standard edition, (187) Price: $25.99
+3. Doom, Original edition, (199) Price: $44.99
+4. Destiny, The Taken King edition, (200) Price: $69.99
+5. Halo 4, Standard edition, (865) Price: $119.99
+
+2
+Adding Snakes n Ladders, Standard edition, (187) Price: $25.99
+----------------
+Online shop menu
+----------------
+1. Add product to cart
+2. View your shopping cart
+3. Finalise purchases
+4. Quit
+1
+Please select a product from the menu
+1. Uno, Deluxe edition, (123) Price: $4.99
+2. Snakes n Ladders, Standard edition, (187) Price: $25.99
+3. Doom, Original edition, (199) Price: $44.99
+4. Destiny, The Taken King edition, (200) Price: $69.99
+5. Halo 4, Standard edition, (865) Price: $119.99
+
+4
+Adding Destiny, The Taken King edition, (200) Price: $69.99
+----------------
+Online shop menu
+----------------
+1. Add product to cart
+2. View your shopping cart
+3. Finalise purchases
+4. Quit
+2
+Contents of your cart (sorted by price)
+1. Snakes n Ladders, Standard edition, (187) Price: $25.99
+2. Destiny, The Taken King edition, (200) Price: $69.99
+
+----------------
+Online shop menu
+----------------
+1. Add product to cart
+2. View your shopping cart
+3. Finalise purchases
+4. Quit
+3
+Your total is: $95.98
+Pay ? (Y/N)
+y
+Thank you for using the online shop! Enjoy your items!
+----------------
+Online shop menu
+----------------
+1. Add product to cart
+2. View your shopping cart
+3. Finalise purchases
+4. Quit
+4
+Thank you for using the online shop! Have a good day
